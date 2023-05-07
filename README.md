@@ -5,6 +5,8 @@ Research Coordinators: [Dr. Robert Pappalardo](https://science.jpl.nasa.gov/peop
 
 Team Members: Joshua Lin, Cheyanne Macagno, Malika Neal, David Baize II, Scott Phillips
 
+*Python project (this) written by Joshua Lin.*
+
 Image mosaics analyzed from NASA Galileo's *Solid-State Imager*:
 
 ![alt text](https://astrogeology.usgs.gov/cache/images/1ca8fca37b10e3db141f165ce9990965_Europa_mosaic_thumbnail_xl.JPG "GalileoMosaics")
