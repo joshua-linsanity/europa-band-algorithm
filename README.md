@@ -1,9 +1,13 @@
 # europa-band-algorithm
-Project to sort bands on Europa's ice-shell lithosphere by relative age. Findings from both geological analysis (separate) and relative ages algorithm (this project) presented at the NASA Jet Propulsion Lab (JPL) in Pasadena on May 12th, 2023. 
+Project to sort bands on Europa's ice-shell lithosphere by relative age. Findings from both geological analysis (separate) and relative ages algorithm (this project) presented at the [NASA Jet Propulsion Lab (JPL)](https://www.jpl.nasa.gov/) in Pasadena on May 12th, 2023. 
 
 Research Coordinators: [Dr. Robert Pappalardo](https://science.jpl.nasa.gov/people/pappalardo/) (Europa Clipper Project Scientist), [Dr. Erin Leonard](https://science.jpl.nasa.gov/people/leonard/) (Europa Clipper Staff Scientist), [Dr. Michelle Selvans](https://airandspace.si.edu/people/staff/michelle-selvans) (PhD Caltech).
 
 Team Members: Joshua Lin, Cheyanne Macagno, Malika Neal, David Baize II, Scott Phillips
+
+Image mosaics analyzed from NASA Galileo's *Solid-State Imager*:
+
+![alt text](https://astrogeology.usgs.gov/cache/images/1ca8fca37b10e3db141f165ce9990965_Europa_mosaic_thumbnail_xl.JPG "GalileoMosaics")
 
 # Abstract
 
