@@ -5,7 +5,7 @@ Project to sort bands on Europa's ice-shell lithosphere by relative age. Finding
 
 *Python project (this) written by Joshua Lin.*
 
-Image mosaics analyzed from NASA Galileo's *Solid-State Imager*:
+Image mosaics analyzed from [NASA Galileo's Solid-State Imager](https://astrogeology.usgs.gov/search/map/Europa/Mosaic/Equirectangular_Mosaics_of_Europa_v3):
 
 ![alt text](https://astrogeology.usgs.gov/cache/images/1ca8fca37b10e3db141f165ce9990965_Europa_mosaic_thumbnail_xl.JPG "GalileoMosaics")
 
