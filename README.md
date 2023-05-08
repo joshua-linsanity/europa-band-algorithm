@@ -3,7 +3,7 @@ Project to sort bands on Europa's ice-shell lithosphere by relative age. Finding
 * Research Coordinators: [Dr. Robert Pappalardo](https://science.jpl.nasa.gov/people/pappalardo/) (Europa Clipper Project Scientist), [Dr. Erin Leonard](https://science.jpl.nasa.gov/people/leonard/) (Europa Clipper Staff Scientist), [Dr. Michelle Selvans](https://airandspace.si.edu/people/staff/michelle-selvans) (PhD Caltech).
 * Team Members: Joshua Lin, Cheyanne Macagno, Malika Neal, David Baize II, Scott Phillips
 
-*Python project (this) written by Joshua Lin.*
+*This Python project was written by Joshua Lin.*
 
 Image mosaics analyzed from [NASA Galileo's Solid-State Imager](https://astrogeology.usgs.gov/search/map/Europa/Mosaic/Equirectangular_Mosaics_of_Europa_v3):
 
