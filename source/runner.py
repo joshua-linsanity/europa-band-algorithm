@@ -80,11 +80,8 @@ def get_tests():
             'description': 'Network contains cycle (reactivation) with bands surrounding cycle.'
         },
         {
-            # TODO: update bands + remove duplicates
             'bands': ['G56', 'L49', 'L96', 'L109', 'L112', 'G56', 'L59', 'G83'], 
-            # TODO: finish intersections
             'intersections': [('L109', 'L96', 'L49', 'G56'), ('L112', 'G56'), ('G56', 'L59'), ('G56', 'G83')],
-            # TODO: determine solution
             'solution': ['Designed to fail.'], 
             'description': 'Europa test region network (incomplete data).'
         }
@@ -138,7 +135,6 @@ def get_data():
             'intersections': [('blue', 'red'), ('blue', 'green'), ('red', 'green'), ('green', 'black')],
             'confidences': [5, 5, 5, 5],
             'description': "2 bands per node."
-            
         },
         {
             'bands': ['red', 'green', 'blue', 'black'], 
@@ -149,7 +145,7 @@ def get_data():
         {
             'bands': ['red', 'green', 'blue', 'pink', 'black', 'orange'],
             'intersections': [('red', 'green', 'pink'), ('green', 'blue', 'pink'), ('blue', 'red', 'pink'), ('black', 'red', 'green'), ('orange', 'black')],
-            'confidences': [5, 5, 4, 3, 5],
+            'confidences': [5, 5, 3, 4, 5],
             'description': 'Network contains cycle (reactivation) with bands surrounding cycle.'
         },
         {
