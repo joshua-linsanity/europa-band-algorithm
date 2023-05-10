@@ -41,7 +41,7 @@ Usage: to run on specific networks, add the bands, intersections, confidences, a
 
 # Discussion/Results
 
-Because of the network is inherently underdetermined, considering the fact that there are significantly fewer intersections than required to determine a unique sorting, it is very unlikely that a sorted solution will be completely accurate. 
+Because the network is generally underdetermined, considering the fact that there are significantly fewer intersections than required to determine a unique sorting, it is very unlikely that a sorted solution will be completely accurate. 
 
 Therefore, this Python program is most useful for 1) obtaining a general idea of the relative ages of bands, using the deviation calculation to determine how the accuracy of topological sort, and 2) finding cycles within the network to identify geological reactivation—which may then be resolved manually, if need be. 
 
